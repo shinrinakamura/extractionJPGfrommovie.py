@@ -26,9 +26,9 @@ import numpy as np
 import os
 #import shutil
 #ディレクトリの指定　　https://office54.net/python/python-unicode-error
-input_movie_dir =   r"C:\Users\shin\OneDrive\学習用\enpiteveri授業資料\農業IoT_enpiteveri授業用サンプル\機械学習\anotation用動画"       #読み込む動画をディレクトリから指定
+input_movie_dir =   r"C:\Users\機械学習\anotation用動画"       #読み込む動画をディレクトリから指定
 input_movie_file = r"\eggplant_6.mp4"
-image_dir   =   r"C:\Users\shin\OneDrive\学習用\enpiteveri授業資料\農業IoT_enpiteveri授業用サンプル\機械学習\anotation用動画\cut_image"           #出力先のフォルダ
+image_dir   =   r"C:\Users\\anotation用動画\cut_image"           #出力先のフォルダ
 #image_file  =   r"image_%s"          #出力するファイル名 最初にバックスラッシュをつける必要がある
 #image = 
 i=0
